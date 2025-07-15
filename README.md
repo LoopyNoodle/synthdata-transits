@@ -1,1 +1,1 @@
-# synthdata-transits
+# Synthetic Lightcurves Generation
